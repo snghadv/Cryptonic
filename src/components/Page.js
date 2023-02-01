@@ -29,8 +29,7 @@ export default function Example() {
                             <h2 className="text-lg font-semibold leading-8 tracking-tight text-indigo-600">Buy Crypto</h2>
                             <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">In simple steps</p>
                             <p className="mt-6 text-lg leading-8 text-gray-600">
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque,
-                                iste dolor cupiditate blanditiis ratione.
+                                Experience the best of Web3 using Transfi. We’re available in many countries, creating the easiest buying experience for crypto. Think of us as the express checkout for the crypto world.
                             </p>
                         </div>
                     </div>
