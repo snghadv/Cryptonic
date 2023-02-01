@@ -33,7 +33,7 @@ export default function Example() {
                             </p>
                         </div>
                     </div>
-                    <iframe src="https://sandbox-buy.transfi.com/" title="W3Schools Free Online Web Tutorials" width={500}
+                    <iframe className="shadow-lg border rounded-2xl" src="https://sandbox-buy.transfi.com?walletAddress=2N3oefVeg6stiTb5Kh3ozCSkaqmx91FDbsm" title="W3Schools Free Online Web Tutorials" width={450}
                         height={700}></iframe>
 
                 </div>
